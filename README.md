@@ -15,9 +15,9 @@ Uma API simples de usuários construída com Node.js e Express, contendo operaç
 
 ```
 .
-├── express-api/
-│   ├── express-api.js
-│   └── README.md
+│ 
+├── express-api.js
+├── README.md 
 ├── node_modules/
 ├── package.json
 ```
